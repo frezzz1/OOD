@@ -1,0 +1,82 @@
+﻿  ShapeController.cpp
+C:\Users\Konovalov Sergey\Desktop\ООД\lw2\Shapes2\Shapes2\TriangleCreator.h(28,23): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "ShapeController.cpp")
+  
+C:\Users\Konovalov Sergey\Desktop\ООД\lw2\Shapes2\Shapes2\TriangleCreator.h(29,23): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "ShapeController.cpp")
+  
+C:\Users\Konovalov Sergey\Desktop\ООД\lw2\Shapes2\Shapes2\TriangleCreator.h(30,23): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "ShapeController.cpp")
+  
+C:\Users\Konovalov Sergey\Desktop\ООД\lw2\Shapes2\Shapes2\TriangleCreator.h(31,23): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "ShapeController.cpp")
+  
+C:\Users\Konovalov Sergey\Desktop\ООД\lw2\Shapes2\Shapes2\TriangleCreator.h(32,23): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "ShapeController.cpp")
+  
+C:\Users\Konovalov Sergey\Desktop\ООД\lw2\Shapes2\Shapes2\TriangleCreator.h(33,23): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "ShapeController.cpp")
+  
+C:\Users\Konovalov Sergey\Desktop\ООД\lw2\Shapes2\Shapes2\RectangleCreator.h(26,23): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "ShapeController.cpp")
+  
+C:\Users\Konovalov Sergey\Desktop\ООД\lw2\Shapes2\Shapes2\RectangleCreator.h(27,23): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "ShapeController.cpp")
+  
+C:\Users\Konovalov Sergey\Desktop\ООД\lw2\Shapes2\Shapes2\RectangleCreator.h(28,23): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "ShapeController.cpp")
+  
+C:\Users\Konovalov Sergey\Desktop\ООД\lw2\Shapes2\Shapes2\RectangleCreator.h(29,23): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "ShapeController.cpp")
+  
+C:\Users\Konovalov Sergey\Desktop\ООД\lw2\Shapes2\Shapes2\CircleCreator.h(26,28): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "ShapeController.cpp")
+  
+C:\Users\Konovalov Sergey\Desktop\ООД\lw2\Shapes2\Shapes2\CircleCreator.h(27,28): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "ShapeController.cpp")
+  
+C:\Users\Konovalov Sergey\Desktop\ООД\lw2\Shapes2\Shapes2\CircleCreator.h(28,27): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "ShapeController.cpp")
+  
+  ShapeCreator.cpp
+C:\Users\Konovalov Sergey\Desktop\ООД\lw2\Shapes2\Shapes2\TriangleCreator.h(28,23): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "ShapeCreator.cpp")
+  
+C:\Users\Konovalov Sergey\Desktop\ООД\lw2\Shapes2\Shapes2\TriangleCreator.h(29,23): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "ShapeCreator.cpp")
+  
+C:\Users\Konovalov Sergey\Desktop\ООД\lw2\Shapes2\Shapes2\TriangleCreator.h(30,23): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "ShapeCreator.cpp")
+  
+C:\Users\Konovalov Sergey\Desktop\ООД\lw2\Shapes2\Shapes2\TriangleCreator.h(31,23): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "ShapeCreator.cpp")
+  
+C:\Users\Konovalov Sergey\Desktop\ООД\lw2\Shapes2\Shapes2\TriangleCreator.h(32,23): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "ShapeCreator.cpp")
+  
+C:\Users\Konovalov Sergey\Desktop\ООД\lw2\Shapes2\Shapes2\TriangleCreator.h(33,23): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "ShapeCreator.cpp")
+  
+C:\Users\Konovalov Sergey\Desktop\ООД\lw2\Shapes2\Shapes2\RectangleCreator.h(26,23): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "ShapeCreator.cpp")
+  
+C:\Users\Konovalov Sergey\Desktop\ООД\lw2\Shapes2\Shapes2\RectangleCreator.h(27,23): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "ShapeCreator.cpp")
+  
+C:\Users\Konovalov Sergey\Desktop\ООД\lw2\Shapes2\Shapes2\RectangleCreator.h(28,23): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "ShapeCreator.cpp")
+  
+C:\Users\Konovalov Sergey\Desktop\ООД\lw2\Shapes2\Shapes2\RectangleCreator.h(29,23): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "ShapeCreator.cpp")
+  
+C:\Users\Konovalov Sergey\Desktop\ООД\lw2\Shapes2\Shapes2\CircleCreator.h(26,28): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "ShapeCreator.cpp")
+  
+C:\Users\Konovalov Sergey\Desktop\ООД\lw2\Shapes2\Shapes2\CircleCreator.h(27,28): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "ShapeCreator.cpp")
+  
+C:\Users\Konovalov Sergey\Desktop\ООД\lw2\Shapes2\Shapes2\CircleCreator.h(28,27): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "ShapeCreator.cpp")
+  
+  Создание кода...
+  Shapes2.vcxproj -> C:\Users\Konovalov Sergey\Desktop\ООД\lw2\Shapes2\x64\Debug\Shapes2.exe
