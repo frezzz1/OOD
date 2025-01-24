@@ -1,0 +1,25 @@
+﻿  CCircleMathDecorator.cpp
+  CCircleShape.cpp
+  CRectangleMathDecorator.cpp
+  CRectangleShape.cpp
+  CTriangleMathDecorator.cpp
+  CTriangleShape.cpp
+  ShapeController.cpp
+  ShapeCreator.cpp
+C:\Users\Konovalov Sergey\Desktop\ООД\Shapes\ShapeCreator.cpp(40,28): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Konovalov Sergey\Desktop\ООД\Shapes\ShapeCreator.cpp(41,28): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Konovalov Sergey\Desktop\ООД\Shapes\ShapeCreator.cpp(42,27): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Konovalov Sergey\Desktop\ООД\Shapes\ShapeCreator.cpp(62,29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Konovalov Sergey\Desktop\ООД\Shapes\ShapeCreator.cpp(63,29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Konovalov Sergey\Desktop\ООД\Shapes\ShapeCreator.cpp(64,33): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Konovalov Sergey\Desktop\ООД\Shapes\ShapeCreator.cpp(65,33): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Konovalov Sergey\Desktop\ООД\Shapes\ShapeCreator.cpp(89,29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Konovalov Sergey\Desktop\ООД\Shapes\ShapeCreator.cpp(90,29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Konovalov Sergey\Desktop\ООД\Shapes\ShapeCreator.cpp(91,29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Konovalov Sergey\Desktop\ООД\Shapes\ShapeCreator.cpp(92,29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Konovalov Sergey\Desktop\ООД\Shapes\ShapeCreator.cpp(93,29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Konovalov Sergey\Desktop\ООД\Shapes\ShapeCreator.cpp(94,29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  ShapeDecorator.cpp
+  Shapes.cpp
+  Создание кода...
+  Shapes.vcxproj -> C:\Users\Konovalov Sergey\Desktop\ООД\Shapes\x64\Debug\Shapes.exe

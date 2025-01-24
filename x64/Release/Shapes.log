@@ -1,0 +1,40 @@
+﻿  CCircleMathDecorator.cpp
+C:\Users\Konovalov Sergey\Desktop\ООД\Shapes\stdafx.h(2,10): error C1083: Не удается открыть файл включение: SFML\Graphics.hpp: No such file or directory,
+  (компиляция исходного файла "CCircleMathDecorator.cpp")
+  
+  CCircleShape.cpp
+C:\Users\Konovalov Sergey\Desktop\ООД\Shapes\stdafx.h(2,10): error C1083: Не удается открыть файл включение: SFML\Graphics.hpp: No such file or directory,
+  (компиляция исходного файла "CCircleShape.cpp")
+  
+  CRectangleMathDecorator.cpp
+C:\Users\Konovalov Sergey\Desktop\ООД\Shapes\stdafx.h(2,10): error C1083: Не удается открыть файл включение: SFML\Graphics.hpp: No such file or directory,
+  (компиляция исходного файла "CRectangleMathDecorator.cpp")
+  
+  CRectangleShape.cpp
+C:\Users\Konovalov Sergey\Desktop\ООД\Shapes\stdafx.h(2,10): error C1083: Не удается открыть файл включение: SFML\Graphics.hpp: No such file or directory,
+  (компиляция исходного файла "CRectangleShape.cpp")
+  
+  CTriangleMathDecorator.cpp
+C:\Users\Konovalov Sergey\Desktop\ООД\Shapes\stdafx.h(2,10): error C1083: Не удается открыть файл включение: SFML\Graphics.hpp: No such file or directory,
+  (компиляция исходного файла "CTriangleMathDecorator.cpp")
+  
+  CTriangleShape.cpp
+C:\Users\Konovalov Sergey\Desktop\ООД\Shapes\stdafx.h(2,10): error C1083: Не удается открыть файл включение: SFML\Graphics.hpp: No such file or directory,
+  (компиляция исходного файла "CTriangleShape.cpp")
+  
+  ShapeController.cpp
+C:\Users\Konovalov Sergey\Desktop\ООД\Shapes\stdafx.h(2,10): error C1083: Не удается открыть файл включение: SFML\Graphics.hpp: No such file or directory,
+  (компиляция исходного файла "ShapeController.cpp")
+  
+  ShapeCreator.cpp
+C:\Users\Konovalov Sergey\Desktop\ООД\Shapes\stdafx.h(2,10): error C1083: Не удается открыть файл включение: SFML\Graphics.hpp: No such file or directory,
+  (компиляция исходного файла "ShapeCreator.cpp")
+  
+  ShapeDecorator.cpp
+C:\Users\Konovalov Sergey\Desktop\ООД\Shapes\stdafx.h(2,10): error C1083: Не удается открыть файл включение: SFML\Graphics.hpp: No such file or directory,
+  (компиляция исходного файла "ShapeDecorator.cpp")
+  
+  Shapes.cpp
+C:\Users\Konovalov Sergey\Desktop\ООД\Shapes\stdafx.h(2,10): error C1083: Не удается открыть файл включение: SFML\Graphics.hpp: No such file or directory,
+  (компиляция исходного файла "Shapes.cpp")
+  
